@@ -1,0 +1,15 @@
+
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ภ่üÿÿÿÿ8ฮผกฎ,
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ย๎’๙ÿÿÿÿ8รุกฎ,
+Jsquid:S2201".The return value of "replaceAll" must be used.(ฉ๛สา8รุกฎ,
+Dsquid:S1148"#Use a logger to log this exception.(€ษิ…ýÿÿÿÿ8รุกฎ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ฮ่๔่๘ÿÿÿÿ8รุกฎ,
+Dsquid:S1148"#Use a logger to log this exception.(€ษิ…ýÿÿÿÿ8รุกฎ,
+Dsquid:S1148"#Use a logger to log this exception.(€ษิ…ýÿÿÿÿ8รุกฎ,
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ย๎’๙ÿÿÿÿ8รุกฎ,
+asquid:S2147"ECombine this catch with the one at line 147, which has the same body.(๏ญฃฤ8รุกฎ,
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(์๚๋U8รุกฎ,
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(ฒฺฑ8€ฎ,
+bsquid:CallToDeprecatedMethod"0Remove this use of "toString"; it is deprecated.(Ü้ผüÿÿÿÿ8รุกฎ,
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ย๎’๙ÿÿÿÿ8รุกฎ,
+bsquid:CallToDeprecatedMethod"0Remove this use of "toString"; it is deprecated.(Ü้ผüÿÿÿÿ8รุกฎ,

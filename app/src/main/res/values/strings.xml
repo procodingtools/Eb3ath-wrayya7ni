@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Eb3ath wrayya7ni</string>
+    <string name="grant_permission">Veuillez donner la permission</string>
+    <string name="open_settings">Ouvrir parametres</string>
+    <string name="send">Envoyer</string>
+    <string name="pick_file">Choisir Numéros</string>
+    <string name="select_numbers">Veuillez selectionner le fichier des numéros</string>
+    <string name="sent_numbers">%1$s / %2$s</string>
+    <string name="sending">Envoi en cours...</string>
+    <string name="sent">Votre message a été envoyé avec succés</string>
+    <string name="ok">Ok</string>
+    <string name="pick_sms">Choisir SMS texte</string>
+</resources>
